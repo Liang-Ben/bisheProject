@@ -233,7 +233,7 @@ export default {
     }
 }
 .editor-content-view img {
-  max-width: 15.5vw;
+  max-width: 15.514vw;
 }
 .result{
     margin-top: 8vw;
