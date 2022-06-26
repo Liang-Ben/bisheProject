@@ -238,4 +238,5 @@ export default {
 .result{
     margin-top: 8vw;
 }
+//新加了一行注释
 </style>
