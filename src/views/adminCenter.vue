@@ -93,7 +93,7 @@ export default {
     margin-top: 2vw;
 }
 i{
-    font-size: 20px;
+    font-size: 22px;
     margin-right: 8px;
 }
 </style>
