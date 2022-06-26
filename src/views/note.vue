@@ -233,10 +233,10 @@ export default {
     }
 }
 .editor-content-view img {
-  max-width: 15.514vw;
+  max-width: 15.55555vw;
 }
 .result{
     margin-top: 8vw;
 }
-//新加了一行注释
+//按实际掉集散地
 </style>
