@@ -111,7 +111,7 @@ export default {
 }
 .register{
     float: right;
-    font-size: 18px;
+    font-size: 16px;
     border-bottom: 1px solid black ;
 }
 </style>
